@@ -17,6 +17,7 @@
 ### 屏蔽 Google 中文搜索结果
 
 **1. uBlacklist** 
+
 [Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
 
 [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/)
