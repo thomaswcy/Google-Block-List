@@ -22,14 +22,13 @@
 
 [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/)
 
-[Mac App Store](https://apps.apple.com/app/ublacklist-for-safari/id1547912640))
+[Mac App Store](https://apps.apple.com/app/ublacklist-for-safari/id1547912640)
 
-- 将以下 2 个链接，通过点击 Add a subscription 添加到 Subscription 分类下。
+#### 将以下 2 个链接，通过点击 Add a subscription 添加到 Subscription 分类下：
 
+- `https://ghproxy.com/https://raw.githubusercontent.com/thomaswcy/Google-Block-List/master/uBlacklist_subscription.txt`：该匹配方式主要是通过 `*://*.xxxx.com/*` 的方式来匹配搜索结果，进行过滤。基本不会有误杀。
 
-  - `https://ghproxy.com/https://raw.githubusercontent.com/thomaswcy/Google-Block-List/master/uBlacklist_subscription.txt`：该匹配方式主要是通过 `*://*.xxxx.com/*` 的方式来匹配搜索结果，进行过滤。基本不会有误杀。
-
-  - `https://ghproxy.com/https://raw.githubusercontent.com/thomaswcy/Google-Block-List/master/uBlacklist_match_patterns.txt`：该匹配方式主要是通过如 `*://*/list.php?s=*`、`title/小.(百科|知识)网/` 的方式来匹配搜索结果，进行过滤。存在小范围的误杀。
+- `https://ghproxy.com/https://raw.githubusercontent.com/thomaswcy/Google-Block-List/master/uBlacklist_match_patterns.txt`：该匹配方式主要是通过如 `*://*/list.php?s=*`、`title/小.(百科|知识)网/` 的方式来匹配搜索结果，进行过滤。存在小范围的误杀。
 
     - 请仔细查看当前模糊匹配列表 (下方列表为最新规则)，若会击中自己经常使用的网站，请自行修改规则配置到插件中，防止被误杀。
 
